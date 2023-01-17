@@ -32,3 +32,8 @@ else
 {
     Console.WriteLine("Неправильный ввод данных");
 }
+
+while (true)
+{
+    
+}
